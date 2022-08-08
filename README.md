@@ -1,6 +1,6 @@
 Projeto simula um marketplace para cadastro de produtos
 
-Desenvolviido em Angular e Banco de dados local no JSON Server.
+Desenvolvido em Angular e Banco de dados local no JSON Server.
 
 Abrindo o projeto
 Instale as dependências (npm i) nas 2 pastas (backend e frontend);
